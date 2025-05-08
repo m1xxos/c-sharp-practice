@@ -1,0 +1,17 @@
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\bin\Debug\net8.0\IncommingPost.Infrastructure.deps.json
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\bin\Debug\net8.0\IncommingPost.Infrastructure.runtimeconfig.json
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\bin\Debug\net8.0\IncommingPost.Infrastructure.dll
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\bin\Debug\net8.0\IncommingPost.Infrastructure.pdb
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\bin\Debug\net8.0\IncommingPost.Domain.dll
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\bin\Debug\net8.0\IncommingPost.Domain.pdb
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\obj\Debug\net8.0\IncommingPost.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\obj\Debug\net8.0\IncommingPost.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\obj\Debug\net8.0\IncommingPost.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\obj\Debug\net8.0\IncommingPost.Infrastructure.AssemblyInfo.cs
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\obj\Debug\net8.0\IncommingPost.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\obj\Debug\net8.0\Incommin.0784A1BE.Up2Date
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\obj\Debug\net8.0\IncommingPost.Infrastructure.dll
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\obj\Debug\net8.0\refint\IncommingPost.Infrastructure.dll
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\obj\Debug\net8.0\IncommingPost.Infrastructure.pdb
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\obj\Debug\net8.0\IncommingPost.Infrastructure.genruntimeconfig.cache
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Infrastructure\obj\Debug\net8.0\ref\IncommingPost.Infrastructure.dll

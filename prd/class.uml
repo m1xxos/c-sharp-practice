@@ -1,0 +1,47 @@
+@startuml
+title Диаграмма классов: Регистрация входящей корреспонденции
+
+class Документ {
+  - receivedDate: Date
+  - receivedTime: Time
+  - registrationNumber: String
+  - summary: String
+  - hasAttachments: Boolean
+  - processingStatus: String
+  + getInfo(): String
+}
+
+class Отправитель {
+  - name: String
+  - contactDetails: String
+  - identifiers: String
+  - address: String
+  + getContactInfo(): String
+}
+
+class Исполнитель {
+  - fullName: String
+  - position: String
+  - department: String
+  - dueDate: Date
+  - executionStatus: String
+  + executeDocument(): void
+}
+
+class ТипДокумента {
+  - typeName: String
+  - description: String
+  + getType(): String
+}
+
+class ЖурналРегистрации {
+  - logDate: Date
+  - action: String
+  + addEntry(): void
+}
+
+Документ "1" --> "1" Отправитель : receivedFrom
+Документ "1" --> "1..*" Исполнитель : assignedTo
+Документ "1" --> "1" ТипДокумента : classifiedAs
+Документ "1" --> "0..*" ЖурналРегистрации : recordedIn
+@enduml

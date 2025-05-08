@@ -1,0 +1,11 @@
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Domain\bin\Debug\net8.0\IncommingPost.Domain.deps.json
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Domain\bin\Debug\net8.0\IncommingPost.Domain.dll
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Domain\bin\Debug\net8.0\IncommingPost.Domain.pdb
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Domain\obj\Debug\net8.0\IncommingPost.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Domain\obj\Debug\net8.0\IncommingPost.Domain.AssemblyInfoInputs.cache
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Domain\obj\Debug\net8.0\IncommingPost.Domain.AssemblyInfo.cs
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Domain\obj\Debug\net8.0\IncommingPost.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Domain\obj\Debug\net8.0\IncommingPost.Domain.dll
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Domain\obj\Debug\net8.0\refint\IncommingPost.Domain.dll
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Domain\obj\Debug\net8.0\IncommingPost.Domain.pdb
+C:\Users\bulyn\Documents\wpf\IncommingPost\IncommingPost.Domain\obj\Debug\net8.0\ref\IncommingPost.Domain.dll

@@ -1,0 +1,71 @@
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.deps.json
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.csproj.AssemblyReference.cache
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.AssemblyInfoInputs.cache
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.AssemblyInfo.cs
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\refint\WebAPI_6_01.Domain.dll
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\Сергей Акимов\source\repos\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\ref\WebAPI_6_01.Domain.dll
+C:\Users\SA\source\repos\DDD\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.deps.json
+C:\Users\SA\source\repos\DDD\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\SA\source\repos\DDD\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\SA\source\repos\DDD\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.csproj.AssemblyReference.cache
+C:\Users\SA\source\repos\DDD\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SA\source\repos\DDD\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.AssemblyInfoInputs.cache
+C:\Users\SA\source\repos\DDD\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.AssemblyInfo.cs
+C:\Users\SA\source\repos\DDD\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SA\source\repos\DDD\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\SA\source\repos\DDD\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\refint\WebAPI_6_01.Domain.dll
+C:\Users\SA\source\repos\DDD\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\SA\source\repos\DDD\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\ref\WebAPI_6_01.Domain.dll
+C:\Users\akimo\source\repos\WebAPI_6_02_UserPhone\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.deps.json
+C:\Users\akimo\source\repos\WebAPI_6_02_UserPhone\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\akimo\source\repos\WebAPI_6_02_UserPhone\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\akimo\source\repos\WebAPI_6_02_UserPhone\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.csproj.AssemblyReference.cache
+C:\Users\akimo\source\repos\WebAPI_6_02_UserPhone\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akimo\source\repos\WebAPI_6_02_UserPhone\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.AssemblyInfoInputs.cache
+C:\Users\akimo\source\repos\WebAPI_6_02_UserPhone\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.AssemblyInfo.cs
+C:\Users\akimo\source\repos\WebAPI_6_02_UserPhone\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.csproj.CoreCompileInputs.cache
+C:\Users\akimo\source\repos\WebAPI_6_02_UserPhone\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\akimo\source\repos\WebAPI_6_02_UserPhone\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\refint\WebAPI_6_01.Domain.dll
+C:\Users\akimo\source\repos\WebAPI_6_02_UserPhone\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\akimo\source\repos\WebAPI_6_02_UserPhone\WebAPI_6_02_UserPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\ref\WebAPI_6_01.Domain.dll
+C:\Users\akimo\source\repos\WebAPI_6_02_PersonPhone\WebAPI_6_02_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.deps.json
+C:\Users\akimo\source\repos\WebAPI_6_02_PersonPhone\WebAPI_6_02_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\akimo\source\repos\WebAPI_6_02_PersonPhone\WebAPI_6_02_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\akimo\source\repos\WebAPI_6_02_PersonPhone\WebAPI_6_02_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.csproj.AssemblyReference.cache
+C:\Users\akimo\source\repos\WebAPI_6_02_PersonPhone\WebAPI_6_02_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akimo\source\repos\WebAPI_6_02_PersonPhone\WebAPI_6_02_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.AssemblyInfoInputs.cache
+C:\Users\akimo\source\repos\WebAPI_6_02_PersonPhone\WebAPI_6_02_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.AssemblyInfo.cs
+C:\Users\akimo\source\repos\WebAPI_6_02_PersonPhone\WebAPI_6_02_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.csproj.CoreCompileInputs.cache
+C:\Users\akimo\source\repos\WebAPI_6_02_PersonPhone\WebAPI_6_02_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\akimo\source\repos\WebAPI_6_02_PersonPhone\WebAPI_6_02_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\refint\WebAPI_6_01.Domain.dll
+C:\Users\akimo\source\repos\WebAPI_6_02_PersonPhone\WebAPI_6_02_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\akimo\source\repos\WebAPI_6_02_PersonPhone\WebAPI_6_02_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\ref\WebAPI_6_01.Domain.dll
+C:\Users\SA\source\repos\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.deps.json
+C:\Users\SA\source\repos\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\SA\source\repos\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\SA\source\repos\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.csproj.AssemblyReference.cache
+C:\Users\SA\source\repos\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SA\source\repos\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.AssemblyInfoInputs.cache
+C:\Users\SA\source\repos\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.AssemblyInfo.cs
+C:\Users\SA\source\repos\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SA\source\repos\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\SA\source\repos\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\refint\WebAPI_6_01.Domain.dll
+C:\Users\SA\source\repos\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\SA\source\repos\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\ref\WebAPI_6_01.Domain.dll
+C:\Users\bulyn\Documents\wpf\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.deps.json
+C:\Users\bulyn\Documents\wpf\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\bulyn\Documents\wpf\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\bin\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\bulyn\Documents\wpf\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulyn\Documents\wpf\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.AssemblyInfoInputs.cache
+C:\Users\bulyn\Documents\wpf\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.AssemblyInfo.cs
+C:\Users\bulyn\Documents\wpf\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bulyn\Documents\wpf\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.dll
+C:\Users\bulyn\Documents\wpf\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\refint\WebAPI_6_01.Domain.dll
+C:\Users\bulyn\Documents\wpf\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\WebAPI_6_01.Domain.pdb
+C:\Users\bulyn\Documents\wpf\WebAPI_6_03_PersonPhone\WebAPI_6_01\WebAPI_6_01.Domain\obj\Debug\net6.0\ref\WebAPI_6_01.Domain.dll

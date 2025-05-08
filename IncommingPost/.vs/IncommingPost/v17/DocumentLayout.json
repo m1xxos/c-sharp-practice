@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bulyn\\Documents\\wpf\\IncommingPost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64DA7CF3-1F19-40A4-8D17-6E6667C024BA}|IncommingPost\\IncommingPost.csproj|c:\\users\\bulyn\\documents\\wpf\\incommingpost\\incommingpost\\controllers\\senderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DA7CF3-1F19-40A4-8D17-6E6667C024BA}|IncommingPost\\IncommingPost.csproj|solutionrelative:incommingpost\\controllers\\senderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DA7CF3-1F19-40A4-8D17-6E6667C024BA}|IncommingPost\\IncommingPost.csproj|c:\\users\\bulyn\\documents\\wpf\\incommingpost\\incommingpost\\controllers\\documenttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DA7CF3-1F19-40A4-8D17-6E6667C024BA}|IncommingPost\\IncommingPost.csproj|solutionrelative:incommingpost\\controllers\\documenttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DA7CF3-1F19-40A4-8D17-6E6667C024BA}|IncommingPost\\IncommingPost.csproj|c:\\users\\bulyn\\documents\\wpf\\incommingpost\\incommingpost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DA7CF3-1F19-40A4-8D17-6E6667C024BA}|IncommingPost\\IncommingPost.csproj|solutionrelative:incommingpost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendersController.cs",
+              "DocumentMoniker": "C:\\Users\\bulyn\\Documents\\wpf\\IncommingPost\\IncommingPost\\Controllers\\SendersController.cs",
+              "RelativeDocumentMoniker": "IncommingPost\\Controllers\\SendersController.cs",
+              "ToolTip": "C:\\Users\\bulyn\\Documents\\wpf\\IncommingPost\\IncommingPost\\Controllers\\SendersController.cs",
+              "RelativeToolTip": "IncommingPost\\Controllers\\SendersController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:30:59.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\bulyn\\Documents\\wpf\\IncommingPost\\IncommingPost\\Controllers\\DocumentTypesController.cs",
+              "RelativeDocumentMoniker": "IncommingPost\\Controllers\\DocumentTypesController.cs",
+              "ToolTip": "C:\\Users\\bulyn\\Documents\\wpf\\IncommingPost\\IncommingPost\\Controllers\\DocumentTypesController.cs",
+              "RelativeToolTip": "IncommingPost\\Controllers\\DocumentTypesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:24:25.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bulyn\\Documents\\wpf\\IncommingPost\\IncommingPost\\Program.cs",
+              "RelativeDocumentMoniker": "IncommingPost\\Program.cs",
+              "ToolTip": "C:\\Users\\bulyn\\Documents\\wpf\\IncommingPost\\IncommingPost\\Program.cs",
+              "RelativeToolTip": "IncommingPost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:33:48.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

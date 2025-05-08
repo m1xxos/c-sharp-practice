@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0724C3-DC77-4B72-A8B7-EE207C5D3654}|WebAPI_6_01\\WebAPI_6_01.API.csproj|c:\\users\\bulyn\\documents\\wpf\\webapi_6_03_personphone\\webapi_6_01\\webapi_6_01\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0724C3-DC77-4B72-A8B7-EE207C5D3654}|WebAPI_6_01\\WebAPI_6_01.API.csproj|solutionrelative:webapi_6_01\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17088F0E-F0F5-4DE3-A7C4-0661769930B3}|WebAPI_6_01.Domain\\WebAPI_6_01.Domain.csproj|c:\\users\\bulyn\\documents\\wpf\\webapi_6_03_personphone\\webapi_6_01\\webapi_6_01.domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17088F0E-F0F5-4DE3-A7C4-0661769930B3}|WebAPI_6_01.Domain\\WebAPI_6_01.Domain.csproj|solutionrelative:webapi_6_01.domain\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17088F0E-F0F5-4DE3-A7C4-0661769930B3}|WebAPI_6_01.Domain\\WebAPI_6_01.Domain.csproj|c:\\users\\bulyn\\documents\\wpf\\webapi_6_03_personphone\\webapi_6_01\\webapi_6_01.domain\\model\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17088F0E-F0F5-4DE3-A7C4-0661769930B3}|WebAPI_6_01.Domain\\WebAPI_6_01.Domain.csproj|solutionrelative:webapi_6_01.domain\\model\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC29F50-F413-4AD9-A23D-2E0561A9258F}|WebAPI_6_01.Infrastructure\\WebAPI_6_01.Infrastructure.csproj|c:\\users\\bulyn\\documents\\wpf\\webapi_6_03_personphone\\webapi_6_01\\webapi_6_01.infrastructure\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC29F50-F413-4AD9-A23D-2E0561A9258F}|WebAPI_6_01.Infrastructure\\WebAPI_6_01.Infrastructure.csproj|solutionrelative:webapi_6_01.infrastructure\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC29F50-F413-4AD9-A23D-2E0561A9258F}|WebAPI_6_01.Infrastructure\\WebAPI_6_01.Infrastructure.csproj|c:\\users\\bulyn\\documents\\wpf\\webapi_6_03_personphone\\webapi_6_01\\webapi_6_01.infrastructure\\migrations\\20230627115418_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC29F50-F413-4AD9-A23D-2E0561A9258F}|WebAPI_6_01.Infrastructure\\WebAPI_6_01.Infrastructure.csproj|solutionrelative:webapi_6_01.infrastructure\\migrations\\20230627115418_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC29F50-F413-4AD9-A23D-2E0561A9258F}|WebAPI_6_01.Infrastructure\\WebAPI_6_01.Infrastructure.csproj|c:\\users\\bulyn\\documents\\wpf\\webapi_6_03_personphone\\webapi_6_01\\webapi_6_01.infrastructure\\migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC29F50-F413-4AD9-A23D-2E0561A9258F}|WebAPI_6_01.Infrastructure\\WebAPI_6_01.Infrastructure.csproj|solutionrelative:webapi_6_01.infrastructure\\migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC29F50-F413-4AD9-A23D-2E0561A9258F}|WebAPI_6_01.Infrastructure\\WebAPI_6_01.Infrastructure.csproj|c:\\users\\bulyn\\documents\\wpf\\webapi_6_03_personphone\\webapi_6_01\\webapi_6_01.infrastructure\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC29F50-F413-4AD9-A23D-2E0561A9258F}|WebAPI_6_01.Infrastructure\\WebAPI_6_01.Infrastructure.csproj|solutionrelative:webapi_6_01.infrastructure\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01\\DTO\\PersonDto.cs",
+              "RelativeDocumentMoniker": "WebAPI_6_01\\DTO\\PersonDto.cs",
+              "ToolTip": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01\\DTO\\PersonDto.cs",
+              "RelativeToolTip": "WebAPI_6_01\\DTO\\PersonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:43:32.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01.Domain\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "WebAPI_6_01.Domain\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01.Domain\\Model\\Person.cs",
+              "RelativeToolTip": "WebAPI_6_01.Domain\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:43:20.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01.Domain\\Model\\Phone.cs",
+              "RelativeDocumentMoniker": "WebAPI_6_01.Domain\\Model\\Phone.cs",
+              "ToolTip": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01.Domain\\Model\\Phone.cs",
+              "RelativeToolTip": "WebAPI_6_01.Domain\\Model\\Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:43:06.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20230627115418_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01.Infrastructure\\Migrations\\20230627115418_InitialMigration.cs",
+              "RelativeDocumentMoniker": "WebAPI_6_01.Infrastructure\\Migrations\\20230627115418_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01.Infrastructure\\Migrations\\20230627115418_InitialMigration.cs",
+              "RelativeToolTip": "WebAPI_6_01.Infrastructure\\Migrations\\20230627115418_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:42:58.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01.Infrastructure\\Migrations\\ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebAPI_6_01.Infrastructure\\Migrations\\ContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01.Infrastructure\\Migrations\\ContextModelSnapshot.cs",
+              "RelativeToolTip": "WebAPI_6_01.Infrastructure\\Migrations\\ContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:42:55.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01.Infrastructure\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI_6_01.Infrastructure\\Repository\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01.Infrastructure\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "WebAPI_6_01.Infrastructure\\Repository\\PersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:42:22.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01.Infrastructure\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "WebAPI_6_01.Infrastructure\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\bulyn\\Documents\\wpf\\WebAPI_6_03_PersonPhone\\WebAPI_6_01\\WebAPI_6_01.Infrastructure\\Data\\Context.cs",
+              "RelativeToolTip": "WebAPI_6_01.Infrastructure\\Data\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:42:09.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

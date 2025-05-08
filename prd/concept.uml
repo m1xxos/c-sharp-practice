@@ -1,0 +1,50 @@
+@startuml
+title Концептуальная модель предметной области: Обработка входящей корреспонденции
+
+package "Пользователи" {
+  actor "Секретарь" as Secretary
+  actor "Канцелярия" as Office
+  actor "Исполнитель" as Executor
+}
+
+package "Система обработки документов" {
+  component "Интерфейс пользователя" as UI
+  component "Модуль регистрации" as Registration
+  component "Модуль классификации" as Classification
+  component "Модуль маршрутизации" as Routing
+  component "Модуль контроля исполнения" as Monitoring
+  database "База данных" as DB
+}
+
+package "Данные" {
+  [Документ]
+  [Отправитель]
+  [Исполнитель]
+  [Тип документа]
+  [Журнал регистрации]
+}
+
+' Пользователи взаимодействуют с интерфейсом
+Secretary --> UI : ввод данных
+Office --> UI : регистрация
+Executor --> UI : просмотр и исполнение
+
+' Интерфейс взаимодействует с модулями
+UI --> Registration
+UI --> Classification
+UI --> Routing
+UI --> Monitoring
+
+' Модули взаимодействуют с БД
+Registration --> DB : сохранить документ
+Classification --> DB : определить тип
+Routing --> DB : назначить исполнителя
+Monitoring --> DB : отслеживать статус
+
+' Данные хранятся в БД
+DB --> [Документ]
+DB --> [Отправитель]
+DB --> [Исполнитель]
+DB --> [Тип документа]
+DB --> [Журнал регистрации]
+@enduml

@@ -1,35 +1,28 @@
+Диаграмма вариантов использования системы:
+
 @startuml
 left to right direction
-title Диаграмма вариантов использования: Обработка входящей корреспонденции
+title Диаграмма вариантов использования: Регистрация исходящей корреспонденции
 
-actor "Секретарь" as Secretary
-actor "Канцелярия" as Office
-actor "Исполнитель" as Executor
+actor "Инициатор задания" as Initiator
+actor "Получатель информации" as Receiver
 
-rectangle "Система обработки документов" {
-    usecase "Регистрация входящего документа" as UC1
-    usecase "Классификация документа" as UC2
-    usecase "Маршрутизация документа" as UC3
-    usecase "Контроль исполнения" as UC4
-    usecase "Просмотр информации о документе" as UC5
-    usecase "Ведение журнала регистрации" as UC6
+rectangle "Система регистрации исходящей корреспонденции" {
+    usecase "Регистрация исходящего документа" as UC1
+    usecase "Присвоение номера документу" as UC2
+    usecase "Валидация данных документа" as UC3
+    usecase "Сохранение документа в базу данных" as UC4
+    usecase "Формирование отчета о корреспонденции" as UC5
 }
 
-' Секретарь
-Secretary --> UC1
-Secretary --> UC2
-Secretary --> UC3
+' Взаимодействие с внешними актерами
+Initiator --> UC1
+Receiver --> UC5
 
-' Канцелярия
-Office --> UC1
-Office --> UC6
+' Взаимодействие внутри системы
+UC1 ...> UC2 : <<include>>
+UC1 ...> UC3 : <<include>>
+UC1 ...> UC4 : <<include>>
+UC5 ...> UC4 : <<include>>
 
-' Исполнитель
-Executor --> UC4
-Executor --> UC5
-
-' Включаемые и расширяемые прецеденты
-UC1 ...> UC6 : <<include>>
-UC3 <.. UC5 : <<extend>>
-UC4 ..> UC5 : <<include>>
 @enduml

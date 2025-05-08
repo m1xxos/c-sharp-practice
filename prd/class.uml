@@ -1,47 +1,42 @@
+UML-диаграмма классов:
+
 @startuml
-title Диаграмма классов: Регистрация входящей корреспонденции
+title UML-диаграмма классов: Регистрация исходящей корреспонденции
+
+class ИнициаторЗадания {
+    +id: int
+    +ФИО: string
+    +должность: string
+    +создатьДокумент(): Документ
+}
+
+class ПолучательИнформации {
+    +id: int
+    +ФИО: string
+    +получитьОтчет(): Отчет
+}
 
 class Документ {
-  - receivedDate: Date
-  - receivedTime: Time
-  - registrationNumber: String
-  - summary: String
-  - hasAttachments: Boolean
-  - processingStatus: String
-  + getInfo(): String
+    +id: int
+    +датаСоздания: Date
+    +тема: string
+    +содержание: string
+    +регистрационныйНомер: string
+    +валиден: bool
+    +присвоитьНомер(): void
+    +проверитьДанные(): bool
+    +сохранить(): void
 }
 
-class Отправитель {
-  - name: String
-  - contactDetails: String
-  - identifiers: String
-  - address: String
-  + getContactInfo(): String
+class Отчет {
+    +id: int
+    +датаФормирования: Date
+    +документы: List<Документ>
+    +сформировать(): void
 }
 
-class Исполнитель {
-  - fullName: String
-  - position: String
-  - department: String
-  - dueDate: Date
-  - executionStatus: String
-  + executeDocument(): void
-}
+ИнициаторЗадания "1" --> "0..*" Документ : создает
+ПолучательИнформации "1" --> "0..*" Отчет : запрашивает
+Документ "0..*" --> "1" Отчет : включен в
 
-class ТипДокумента {
-  - typeName: String
-  - description: String
-  + getType(): String
-}
-
-class ЖурналРегистрации {
-  - logDate: Date
-  - action: String
-  + addEntry(): void
-}
-
-Документ "1" --> "1" Отправитель : receivedFrom
-Документ "1" --> "1..*" Исполнитель : assignedTo
-Документ "1" --> "1" ТипДокумента : classifiedAs
-Документ "1" --> "0..*" ЖурналРегистрации : recordedIn
 @enduml

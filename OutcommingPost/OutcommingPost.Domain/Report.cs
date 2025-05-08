@@ -11,8 +11,6 @@ namespace OutcommingPost.Domain
 
         public void Generate()
         {
-            // In a real application, this would generate a report with documents
-            // This is a placeholder for the actual implementation
             GenerationDate = DateTime.Now;
         }
     }

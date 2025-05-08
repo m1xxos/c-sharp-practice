@@ -9,8 +9,6 @@ namespace OutcommingPost.Domain
 
         public Report GetReport()
         {
-            // In a real application, this would retrieve a report
-            // This is a placeholder for the actual implementation
             return new Report
             {
                 GenerationDate = DateTime.Now

@@ -13,7 +13,6 @@ namespace OutcommingPost.Domain
 
         public void AssignNumber()
         {
-            // Simple implementation: current date + random number
             RegistrationNumber = $"{CreationDate.ToString("yyyyMMdd")}-{new Random().Next(1000, 9999)}";
         }
 
@@ -29,8 +28,7 @@ namespace OutcommingPost.Domain
 
         public void Save()
         {
-            // In a real application, this would interface with repository
-            // This is a placeholder for the actual implementation
+
         }
     }
 }

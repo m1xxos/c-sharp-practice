@@ -13,8 +13,6 @@ namespace OutcommingPost.Infrastructure.Repositories
 
         public async Task<IEnumerable<Receiver>> GetActiveReceiversAsync()
         {
-            // В реальном приложении здесь может быть свойство 'IsActive'
-            // Для простоты возвращаем всех получателей
             return await GetAllAsync();
         }
     }
